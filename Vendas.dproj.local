@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/16 14:18:08.000.087,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/16 14:32:45.000.787,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/05 08:44:50.824,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/05 08:47:00.433,D:\CursoUdemy\DelphiSQLServer\DelphiSQLServer\UPrincipal.pas=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/05 08:47:00.433,D:\CursoUdemy\DelphiSQLServer\DelphiSQLServer\UPrincipal.dfm=D:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/05 08:47:29.204,D:\CursoUdemy\DelphiSQLServer\DelphiSQLServer\Vendas.dproj=D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
